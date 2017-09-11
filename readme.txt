@@ -5,3 +5,4 @@ add
 commit
 status
 diff
+caonimabixaijibaxie
