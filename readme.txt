@@ -7,3 +7,4 @@ status
 diff
 reflog
 reset --hard HEAD
+now done
