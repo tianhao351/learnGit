@@ -5,4 +5,5 @@ add
 commit
 status
 diff
-caonimabixaijibaxie
+reflog
+reset --hard HEAD
