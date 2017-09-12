@@ -8,3 +8,4 @@ diff
 reflog
 reset --hard HEAD
 now done
+get
